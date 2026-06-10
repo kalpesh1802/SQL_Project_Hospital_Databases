@@ -269,8 +269,6 @@ Hospital-Management-Analytics-SQL-PowerBI/
 
 ## 📸 Dashboard Preview
 
-(Add screenshots of your Power BI dashboard here)
-
 ### Executive Dashboard
 ![Dashboard Screenshot](dashboard.png)
 
@@ -302,15 +300,12 @@ Through this project, I gained practical experience in:
 ## 👨‍💻 Author
 
 **Kalpesh Patil**
-
 B.Tech (Electronics & Telecommunication)
-
 Aspiring Data Scientist | SQL | Power BI | Python | Machine Learning
-
 GitHub: https://github.com/kalpesh1802
-
-LinkedIn: Add Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/kalpesh-patil-1964a7261/
 
 ---
 
-## ⭐ If you found this project useful, please give it a star!
+## ⭐ If you found this project useful, please give it a star.
+-- Thank You 
