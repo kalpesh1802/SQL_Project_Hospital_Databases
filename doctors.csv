@@ -1,0 +1,201 @@
+doctor_name,specialization,dept_id,experience_yrs
+Panini Balan,Orthopedic Surgeon,2,10
+Rachita Khatri,Orthopedic Surgeon,1,2
+Banjeet Krish,Neurologist,5,23
+Laksh Narayan,Pediatrician,9,1
+Sachi Goel,Cardiologist,2,5
+Xiti Rajagopalan,General Physician,3,9
+Hemangini Sengupta,Neurologist,10,26
+Fitan Barad,Psychiatrist,3,7
+Chakrika Dhillon,Neurologist,7,14
+Upasna Dasgupta,Dermatologist,8,19
+Abeer Chakraborty,Cardiologist,7,28
+Gagan Tella,Pediatrician,1,24
+William Sant,Neurologist,1,6
+Suhani Sridhar,Pediatrician,10,5
+Amol Basu,Pediatrician,6,26
+Jeremiah Balan,Neurologist,6,24
+Xalak Tailor,Cardiologist,4,15
+Jagvi Raja,Psychiatrist,5,4
+Dakshesh Chand,Psychiatrist,9,16
+Indira Parmar,Pediatrician,9,7
+Faras Pai,Psychiatrist,2,8
+Omkaar Pai,Orthopedic Surgeon,3,1
+Triveni Khalsa,Oncologist,3,7
+Yochana Ahuja,Psychiatrist,3,19
+Aishani Merchant,General Physician,3,9
+Fiyaz Shenoy,Psychiatrist,3,19
+Samar Joshi,Neurologist,8,30
+Abhimanyu D’Alia,Pediatrician,8,21
+Abhimanyu Balan,Cardiologist,3,18
+Aarna Sangha,Neurologist,3,29
+Ekanta Desai,Cardiologist,6,4
+Anamika Vohra,Oncologist,1,21
+Aayush Varma,Oncologist,1,2
+Jeremiah Kala,Neurologist,3,21
+Arjun Sant,Cardiologist,5,26
+Daniel Deshpande,General Physician,4,17
+Chaaya Cheema,Pediatrician,4,14
+Ekapad Raman,Dermatologist,9,29
+Neel Suri,Psychiatrist,7,2
+Omya Madan,General Physician,7,18
+Bhavini Pradhan,Cardiologist,8,8
+Yutika Karnik,Cardiologist,7,23
+Faras Rout,Psychiatrist,9,6
+Pushti Vora,Neurologist,8,7
+Amol Trivedi,Cardiologist,6,20
+Jacob Goswami,Pediatrician,2,9
+Girindra Kala,Dermatologist,7,30
+Nidra Lata,Oncologist,4,1
+Barkha Parsa,Dermatologist,2,14
+Abdul Mukherjee,Oncologist,6,27
+Kamya Dora,Dermatologist,10,19
+Agastya Puri,Oncologist,5,8
+Wishi Kaul,Cardiologist,2,12
+Nandini Pingle,General Physician,7,23
+Nihal Hora,Oncologist,1,24
+Bhavini Sood,Pediatrician,8,30
+Ridhi Badal,General Physician,1,9
+Samarth Yohannan,Psychiatrist,8,9
+Bishakha Badami,Cardiologist,10,22
+Udarsh Dalal,Neurologist,1,20
+Jalsa Kapadia,Oncologist,7,2
+Gaurang Nagi,Neurologist,2,25
+Yahvi Swamy,Oncologist,1,5
+Bishakha Lal,Dermatologist,2,19
+Jai Tandon,Neurologist,6,26
+Warda Sengupta,General Physician,4,8
+Hemani Goda,General Physician,4,27
+Advay Devi,General Physician,2,3
+Saumya Sandhu,Neurologist,2,5
+Jacob Narain,Neurologist,1,7
+Yoshita Soni,Dermatologist,3,21
+Amruta Mani,Oncologist,2,1
+Dayita Keer,Neurologist,7,15
+Azad Boase,Dermatologist,6,11
+Chakrika Rai,Pediatrician,7,6
+Ansh Singhal,Orthopedic Surgeon,9,9
+Yachana Pandey,Orthopedic Surgeon,6,6
+Vanya Bhandari,Pediatrician,2,13
+Qadim Bhavsar,Orthopedic Surgeon,8,23
+Mason Gopal,Neurologist,6,3
+Anamika Vaidya,Orthopedic Surgeon,6,9
+Arunima Ramesh,General Physician,5,8
+Ikbal Sarna,Pediatrician,9,6
+Osha Dani,Dermatologist,9,4
+Theodore Nath,Oncologist,5,3
+Upadhriti Soni,Orthopedic Surgeon,3,6
+Nikita Tailor,Cardiologist,3,4
+Rushil Munshi,Orthopedic Surgeon,10,24
+Brijesh Ranganathan,Neurologist,7,5
+Gagan Tata,General Physician,2,16
+Odika Parekh,Dermatologist,6,21
+Ranveer Bail,Pediatrician,9,15
+Tejas Lal,Psychiatrist,4,8
+Benjamin Bajaj,Psychiatrist,1,20
+Rachana Shroff,General Physician,7,24
+Tejas Sha,General Physician,1,18
+Sathvik Aggarwal,Pediatrician,6,10
+Yashasvi Brar,General Physician,6,7
+Radhika Manne,Pediatrician,5,12
+Isaiah Loyal,General Physician,5,23
+Mugdha Chaudry,Oncologist,9,7
+Naksh Saxena,Pediatrician,9,2
+Christopher Kala,General Physician,5,3
+Manan Chokshi,Dermatologist,7,23
+Isha Chandra,General Physician,7,9
+Chameli Mander,Cardiologist,10,29
+Rajata Narula,Neurologist,3,8
+Alexander Tank,Oncologist,2,27
+Vrinda Sarma,Cardiologist,2,26
+Xalak Varkey,Orthopedic Surgeon,2,22
+Chandani Garg,Psychiatrist,4,5
+Pratyush Barad,Pediatrician,8,7
+Upma Kapur,Oncologist,6,1
+Osha Parmar,Psychiatrist,9,22
+Neel Dutt,General Physician,2,9
+Urvi Dhawan,Orthopedic Surgeon,2,28
+Ijaya Balakrishnan,Pediatrician,2,1
+Nidra Soni,Pediatrician,4,8
+Gayathri Pant,Neurologist,6,17
+Charan Gokhale,Psychiatrist,5,28
+Robert Parekh,Orthopedic Surgeon,6,5
+Sudiksha Bhagat,Orthopedic Surgeon,8,15
+Baghyawati Narayan,Neurologist,5,12
+Warjas Rout,Cardiologist,8,23
+Chaitanya Desai,Cardiologist,10,29
+Xavier Anand,Neurologist,5,1
+Anusha Divan,Orthopedic Surgeon,1,13
+Yamini Karpe,Oncologist,6,2
+Maanav Vala,Neurologist,3,8
+Aashi Raghavan,Psychiatrist,3,4
+Forum Khurana,Dermatologist,1,11
+Ayush Chaudhari,Cardiologist,8,29
+Rishi Chopra,Orthopedic Surgeon,8,17
+Abha More,Cardiologist,3,17
+Chatura Gola,Psychiatrist,1,23
+Ronith Chanda,Oncologist,7,21
+Agastya Amble,Orthopedic Surgeon,5,4
+Arya Mody,Orthopedic Surgeon,3,29
+Yashica Naidu,Neurologist,8,13
+Lila Vig,Orthopedic Surgeon,10,19
+Anthony Jain,Oncologist,4,21
+Rehaan Manne,General Physician,9,27
+Devansh Thakkar,Orthopedic Surgeon,9,29
+Finn Sharaf,Psychiatrist,2,9
+Shaurya Narasimhan,General Physician,1,7
+Saanvi Srinivas,Psychiatrist,5,2
+Amaira Srinivas,Oncologist,6,23
+Naveen Natarajan,Cardiologist,6,18
+Reva Dani,Dermatologist,3,17
+Balveer Sinha,Neurologist,5,10
+Januja Tella,Pediatrician,6,29
+Vidhi Samra,Neurologist,6,15
+Harsh Swaminathan,Dermatologist,10,18
+Saksham Dutt,Psychiatrist,8,22
+Arin Chaudhuri,Cardiologist,4,28
+Wriddhish Sarna,General Physician,6,6
+Vasudha Kala,Orthopedic Surgeon,5,22
+Dhruv Balay,Orthopedic Surgeon,9,24
+Jack Kaul,Dermatologist,5,30
+Yatan Lata,Orthopedic Surgeon,8,23
+Naksh Ravi,Dermatologist,6,5
+Qarin Rastogi,Neurologist,4,20
+Garima Menon,Psychiatrist,8,18
+Yashodhara Yogi,Psychiatrist,7,18
+Yash Batta,Psychiatrist,3,5
+Harsh Gill,Oncologist,6,14
+Arunima Deshmukh,Pediatrician,1,10
+Noah Char,Pediatrician,4,8
+Quincy Ghose,General Physician,1,28
+Sachi Sha,Psychiatrist,5,28
+Chakradhar Joshi,Psychiatrist,3,16
+Kashish Nanda,Cardiologist,8,30
+Omya Venkatesh,General Physician,5,27
+Advaith Gera,Cardiologist,2,4
+Caleb Wali,Cardiologist,10,15
+Jagat Puri,Cardiologist,2,27
+Ekapad Bumb,Pediatrician,9,23
+Nicholas Tripathi,Neurologist,8,23
+Madhav Om,Psychiatrist,3,12
+Gaurang Mall,Neurologist,6,25
+Janya Devi,Orthopedic Surgeon,2,30
+Pallavi Zachariah,Orthopedic Surgeon,8,11
+Chaaya Mallick,General Physician,1,25
+Aadhya Dalal,Cardiologist,7,7
+Pahal Bal,Cardiologist,4,14
+Ucchal Chadha,Pediatrician,1,15
+Falak Apte,Cardiologist,6,28
+Upma Oza,Neurologist,9,28
+Amrita Rout,Oncologist,6,27
+Zayyan Bora,Psychiatrist,10,6
+Xavier Kannan,Dermatologist,6,12
+Hitesh Chad,Oncologist,7,26
+Urishilla Krish,Cardiologist,5,29
+Yutika Bansal,Neurologist,7,2
+Bhavna Ganesan,Cardiologist,1,30
+Naveen Mander,Psychiatrist,1,8
+Ridhi Uppal,Oncologist,8,21
+Aarini Bhatia,Cardiologist,9,10
+Warda Mahajan,Cardiologist,2,11
+Yashvi Jha,Pediatrician,9,8
