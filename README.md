@@ -301,8 +301,11 @@ Through this project, I gained practical experience in:
 
 **Kalpesh Patil**
 B.Tech (Electronics & Telecommunication)
+
 Aspiring Data Scientist | SQL | Power BI | Python | Machine Learning
+
 GitHub: https://github.com/kalpesh1802
+
 LinkedIn: https://www.linkedin.com/in/kalpesh-patil-1964a7261/
 
 ---
